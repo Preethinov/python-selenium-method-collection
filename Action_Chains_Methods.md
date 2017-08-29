@@ -1,14 +1,14 @@
 
 **module:** selenium.webdriver.common.action_chains
 
-- class ActionChains(driver)
+ class ActionChains(driver)
 
   *driver:* The WebDriver instance which performs user actions.
 
   Generate user actions.  All actions are stored in the ActionChains
   object.  Call perform() to fire stored actions.
 
-  - perform()
+ - perform()
 
     Performs all stored actions.
 
